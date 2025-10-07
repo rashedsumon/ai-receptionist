@@ -1,0 +1,10 @@
+streamlit
+pandas
+scikit-learn
+numpy
+python-dotenv
+requests
+vonage
+flask         # only if you run local webhook server (optional)
+gunicorn      # optional for production webhook
+python-dateutil
