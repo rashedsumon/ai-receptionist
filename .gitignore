@@ -1,0 +1,28 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+env/
+.venv/
+venv/
+.Python
+
+# Streamlit secrets and keys
+secrets.toml
+.env
+
+# Data and local state
+data/*.csv
+data/*.json
+calendar_db.json
+crm_leads.csv
+
+# IDE
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# Mac/Linux
+.DS_Store
